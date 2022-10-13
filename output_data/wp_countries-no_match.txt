@@ -24,3 +24,5 @@ Guam
 Kiribati
 New Caledonia
 New Zealand
+Korean
+nan

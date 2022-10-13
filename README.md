@@ -44,7 +44,15 @@ Using the above analysis we have fecthed the answers for following -
 
 ## Research Implications
 
+In this project I have learnt how to make API calls by the implementation of API calls such as the WIkimedia and ORES. Morover, my data manipulation skills have strengthened. This project has also helped me in easily identifying anything out of order that might exist in the dataset.
 
+I believe the calculation of the metric ratio of no of articles by the population of that country is not a good measure, as it brings in the bias of population that skew the result significanlty. For instance, countries like India and China has a very huge population so the coverage ratio will be very low for articles produced in these countries, and it might not be true. Similarly for smaller countries like Barbados and Bhutan, the coverage will be very high considering very small population size and non-english speaking country.
+
+It was interestingly suprising to find that the articles list doesn't contain the articles from big countries like United states, Canada, United Kingdom, Australia, and many more. 
+
+Implementing this project can help us in determining what countries have good articles and which countries to focus more on improving their articles. 
+
+Furthermore, the ratio of good articles by total number of articles generated in each country, region and continent will be a good way to overcome the bias along with understanding the high quality production at different level of granularity.
 
 ## Licenses
 
