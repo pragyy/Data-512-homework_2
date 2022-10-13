@@ -34,7 +34,7 @@ For analysis variables being calculated are  total-articles-per-population (a ra
 
 ## Results
 
-The above analysis produces following results -
+Using the above analysis we have fecthed the answers for following -
 - **Top 10 countries by coverage:** The 10 countries with the highest total articles per capita (in descending order).
 - **Bottom 10 countries by coverage:** The 10 countries with the lowest total articles per capita (in ascending order) .
 - **Top 10 countries by high quality:** The 10 countries with the highest high quality articles per capita (in descending order) .
